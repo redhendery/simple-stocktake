@@ -1,0 +1,1 @@
+# simplestock-take
